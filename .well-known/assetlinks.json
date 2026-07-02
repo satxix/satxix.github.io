@@ -10,7 +10,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.satxix.twa",
-        "sha256_cert_fingerprints": ["E9:61:67:C3:64:27:A7:22:B2:CD:D5:73:4D:81:A2:29:C4:E0:90:D7:F4:A8:C2:B3:E2:70:A7:FD:27:04:6C:1D"]
+        "package_name": "io.github.satxix.villacartpos",
+        "sha256_cert_fingerprints": ["EA:8B:BA:95:C0:3F:57:CA:4B:F3:E0:48:31:A1:EC:AE:96:1C:F8:6A:90:57:FC:14:5D:DF:3D:30:68:EF:51:B2"]
       }
-    }]
+}]
