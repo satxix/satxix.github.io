@@ -11,6 +11,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.satxix.villacartpos",
-        "sha256_cert_fingerprints": ["EA:8B:BA:95:C0:3F:57:CA:4B:F3:E0:48:31:A1:EC:AE:96:1C:F8:6A:90:57:FC:14:5D:DF:3D:30:68:EF:51:B2"]
+        "sha256_cert_fingerprints": ["06:FF:0F:B7:63:C1:3B:DC:68:BF:B9:E8:48:F9:DD:01:4D:89:66:7E:5D:0F:EC:B1:FB:CB:52:92:2F:06:59:93"]
       }
 }]
